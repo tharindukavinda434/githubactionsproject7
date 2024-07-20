@@ -18,3 +18,4 @@ function MainContent() {
 }
 
 export default MainContent;
+password = '125409'
